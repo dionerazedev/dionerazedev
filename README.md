@@ -1,10 +1,11 @@
 <!-- Animated Header -->
+
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Dione%20Raze%20Oro&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer&descAlignY=58&descSize=18"
-  width="100%"
-  alt="Dione Raze Oro"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Dione%20Raze%20Oro&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer&descAlignY=58&descSize=18"
+width="100%"
+alt="Dione Raze Oro"
 />
 
 <a href="https://git.io/typing-svg">
@@ -16,7 +17,7 @@
 
 <br/>
 
-<a href="https:dioneraze.com">
+<a href="https://dioneraze.com">
   <img
     src="https://img.shields.io/badge/Portfolio-Visit%20Website-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Portfolio"
@@ -31,17 +32,15 @@
 </a>
 
 <img
-  src="https://komarev.com/ghpvc/?username=dionerazedev-commits&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS"
-  alt="Profile views"
+src="https://komarev.com/ghpvc/?username=dionerazedev-commits&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS"
+alt="Profile views"
 />
 
 </div>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
-
-I'm **Dione**, a 19-year-old **Full-Stack Developer and AI Automation Engineer from the Philippines** 🇵🇭
+I'm Dione, a 19-year-old Full-Stack Developer and AI Automation Engineer from the Philippines 🇵🇭
 
 I stepped away from college to pursue freelancing and accelerate my growth through hands-on development. I focus on building real-world applications, AI-powered systems, business automations, API integrations, and digital products.
 
@@ -49,22 +48,16 @@ I enjoy transforming ideas and repetitive business processes into practical, mai
 
 Outside of development, I love traveling, exploring new places, meeting people, and experiencing different cultures. My goal is to build useful technology while creating a career that allows me to work and travel around the world.
 
----
+🚀 What I Do
 
-## 🚀 What I Do
-
-```text
 Full-Stack Development    Responsive web applications, dashboards, and portals
 Backend Engineering       APIs, authentication, databases, and business logic
 AI Automation             AI agents, intelligent workflows, and assistants
 System Integration        APIs, webhooks, CRMs, and third-party platforms
 Cloud Deployment          Production deployments, environments, and monitoring
-```
 
----
+🛠️ Technology StackLanguages
 
-🛠️ Technology Stack
-Languages
 <p> <img src="https://skillicons.dev/icons?i=ts,js,php,html,css" alt="Programming languages" /> </p> <p> <img src="https://img.shields.io/badge/SQL-Database%20Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> </p>
 Frontend Development
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend technologies" /> </p> <p> <img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-1F6FEB?style=for-the-badge" alt="Responsive web design" /> <img src="https://img.shields.io/badge/UI%2FUX-Modern%20Interfaces-8957E5?style=for-the-badge" alt="UI and UX" /> </p>
@@ -84,89 +77,74 @@ My professional developer portfolio showcasing full-stack applications, AI autom
 
 Key features
 
-Responsive modern interface
-Interactive project showcases
-Detailed service presentation
-Production deployment
-Mobile-friendly design
+Responsive modern interfaceInteractive project showcasesDetailed service presentationProduction deploymentMobile-friendly design
 
 Technology
 
 Next.js React TypeScript Tailwind CSS Vercel
 
-<br/> <a href="https://dione-works.vercel.app/"> <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Dione Works live demo" /> </a> <a href="https://github.com/dionerazedev-commits/dione.works"> <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dione Works repository" /> </a> </td> <td width="50%" valign="top">
-✈️ Migo
+<br/> <a href="https://dioneraze.com/"> <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Dione Works live demo" /> </a> <a href="https://github.com/dionerazedev-commits/dione.works"> <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dione Works repository" /> </a> </td> <td width="50%" valign="top">✈️ Migo
 
 A social travel platform that helps users organize trips, share travel experiences, and track visited countries and provinces.
 
 Key features
 
-Trip planning and itineraries
-Social travel feed
-Destination tracking
-User profiles and interactions
-Authentication and privacy controls
-AI-powered travel assistance
+Trip planning and itinerariesSocial travel feedDestination trackingUser profiles and interactionsAuthentication and privacy controlsAI-powered travel assistance
 
 Technology
 
 React TypeScript Supabase PostgreSQL Vercel
 
-<br/> <a href="https://migo-rust.vercel.app/"> <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Migo live demo" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
-🏔️ Laag Bukidnon
+<br/> <a href="https://migo-rust.vercel.app/"> <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Migo live demo" /> </a> </td> </tr> <tr> <td width="50%" valign="top">🏔️ Laag Bukidnon
 
 A tourism discovery platform created to make Bukidnon's destinations, attractions, and local experiences easier to discover.
 
 Key features
 
-Tourism destination discovery
-Responsive travel interface
-Local attraction showcases
-Modern visual presentation
-Mobile-friendly experience
+Tourism destination discoveryResponsive travel interfaceLocal attraction showcasesModern visual presentationMobile-friendly experience
 
 Technology
 
 React JavaScript CSS Responsive Design Vercel
 
-<br/> <a href="https://laagbukidnon.vercel.app/"> <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Laag Bukidnon live demo" /> </a> </td> <td width="50%" valign="top">
-🤖 AI Booking Agent
+<br/> <a href="https://laagbukidnon.vercel.app/"> <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Laag Bukidnon live demo" /> </a> </td> <td width="50%" valign="top">🤖 AI Booking Agent
 
 An AI-powered customer assistant capable of handling bookings, cancellations, inquiries, complaints, and support requests.
 
 Key features
 
-Customer intent detection
-Automated booking workflows
-Cancellation management
-Inquiry and complaint handling
-Real-time customer responses
-API and webhook integrations
+Customer intent detectionAutomated booking workflowsCancellation managementInquiry and complaint handlingReal-time customer responsesAPI and webhook integrations
 
 Technology
 
 n8n Claude WhatsApp Google Sheets Webhooks
 
 <br/> <img src="https://img.shields.io/badge/Status-Case%20Study-238636?style=for-the-badge" alt="Case study" /> </td> </tr> <tr> <td width="50%" valign="top">
+
 <tr>
 <td colspan="2" valign="top">
 
-### 📞 AI Voice Receptionist
+📞 AI Voice Receptionist
 
 An automated voice reception system designed to answer customer calls, check availability, and manage appointments.
 
-**Key features**
+Key features
 
-- Availability checking
-- Booking creation
-- Appointment updates
-- Cancellation handling
-- Call recording and metadata
-- Automated customer assistance
+Availability checking
 
-**Technology**
+Booking creation
 
-`n8n` `AI Voice` `Airtable` `APIs` `Webhooks`
+Appointment updates
+
+Cancellation handling
+
+Call recording and metadata
+
+Automated customer assistance
+
+Technology
+
+n8n AI Voice Airtable APIs Webhooks
 
 <br/>
 
@@ -176,13 +154,11 @@ An automated voice reception system designed to answer customer calls, check ava
 </tr>
 </table>
 
----
-
-## 📫 Connect With Me
+📫 Connect With Me
 
 <p align="center">
-  <a href="https://dione-works.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dione--works.vercel.app-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://dioneraze.com/">
+    <img src="https://img.shields.io/badge/Portfolio-dioneraze.com-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
   <a href="mailto:dioneraze.dev@gmail.com">
@@ -190,18 +166,16 @@ An automated voice reception system designed to answer customer calls, check ava
   </a>
 </p>
 
----
-
 <div align="center">
 
-### Build. Learn. Improve. Repeat.
+Build. Learn. Improve. Repeat.
 
 Developing useful software and intelligent systems from the Philippines 🇵🇭
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer"
-  width="100%"
-  alt="Footer"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer"
+width="100%"
+alt="Footer"
 />
 
 </div>
