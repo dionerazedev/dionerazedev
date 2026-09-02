@@ -1,284 +1,116 @@
-<!-- Header -->
-
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Dione%20Raze%20Oro&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer&descAlignY=58&descSize=18"
-width="100%"
-alt="Dione Raze Oro"
-/>
+# Dione Raze Oro
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+full-stack+web+applications;Creating+AI-powered+systems+and+automations;Designing+APIs%2C+integrations%2C+and+workflows;Turning+ideas+into+production-ready+software"
-    alt="Typing introduction"
-  />
-</a>
+**Full-Stack Developer · AI-Assisted Product Builder**
 
-<br/><br/>
+I design and ship production web applications with **Next.js, TypeScript, Supabase and AI-assisted development tools.**
 
-<a href="https://dioneraze.com">
-  <img
-    src="https://img.shields.io/badge/Portfolio-dioneraze.com-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
-
-<a href="mailto:dioneraze.dev@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<img
-src="https://komarev.com/ghpvc/?username=dionerazedev&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS"
-alt="Profile views"
-/>
+[Portfolio](https://dioneraze.com) · [Email](mailto:dioneraze.dev@gmail.com) · [GitHub](https://github.com/dionerazedev)
 
 </div>
 
 ---
 
-## About Me
+### About
 
-I'm **Dione**, a Full-Stack Developer and AI Automation Engineer from the Philippines 🇵🇭.
+I'm a full-stack developer from the Philippines focused on turning product ideas and existing prototypes into reliable, production-ready software.
 
-I build modern web and mobile applications, backend systems, AI-powered workflows, and API integrations with a focus on creating software that is practical, maintainable, and ready for real-world use.
-
-My work usually sits at the intersection of **product development, frontend engineering, backend architecture, and AI automation**.
-
-Currently focused on:
-
-* Building full-stack applications with **Next.js, React, TypeScript, and Supabase**
-* Developing mobile applications with **React Native and Expo**
-* Designing secure authentication, databases, APIs, and backend workflows
-* Integrating **OpenAI, Claude, AI agents, and automation platforms**
-* Building polished, responsive interfaces with strong attention to UX
-* Shipping and deploying production-ready applications
-
----
-
-## Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite" alt="Frontend technologies" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgres,mysql,prisma" alt="Backend technologies" />
-</p>
-
-**Also working with:** REST APIs · Authentication · Row Level Security · Webhooks · Serverless Functions · PostgreSQL
-
-### Mobile
-
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-</p>
-
-### AI & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-</p>
-
-**Experience with:** AI agents · LLM APIs · Prompt engineering · RAG · Webhooks · CRM integrations · Workflow automation
-
-### Development & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode" alt="Development tools" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-</p>
-
----
-
-## Featured Projects
-
-### ✈️ Migo
-
-**Cross-platform social travel companion built with React Native, Expo, Supabase, and AI.**
-
-Migo brings trip planning, travel expenses, memories, social features, and AI-powered travel assistance into one application.
-
-**Highlights**
-
-* React Native + Expo Router
-* TypeScript
-* Supabase Auth, PostgreSQL, Storage & Realtime
-* AI-powered travel assistant
-* Push notifications
-* Trip planning and collaborative itineraries
-* Expense splitting and settlement tracking
-* Native iOS and Android support
-
----
-
-### 🏔️ Laag Bukidnon
-
-**Tourism discovery and trip-planning platform for Bukidnon.**
-
-Designed to make destinations, routes, travel information, and local experiences easier to discover through a mobile-first experience.
-
-**Highlights**
-
-* Next.js + TypeScript
-* Supabase
-* AI-assisted travel guidance
-* Destination discovery
-* Trip planning
-* PWA and offline-friendly behavior
-* Responsive mobile-first interface
-
-<a href="https://laagbukidnon.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/Live%20Demo-View%20Project-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Laag Bukidnon"
-  />
-</a>
-
----
-
-### 🏡 Narra Estates
-
-**Cinematic luxury real-estate experience focused on motion, interaction, and frontend engineering.**
-
-**Highlights**
-
-* Next.js + TypeScript
-* GSAP ScrollTrigger
-* Lenis smooth scrolling
-* Dynamic property routes
-* Property filtering
-* Interactive architectural experience
-* Responsive and reduced-motion support
-
----
-
-### 🧾 EstateDocPrep
-
-**Production-minded guest check-in system built around Supabase and secure backend workflows.**
-
-**Highlights**
-
-* Next.js + TypeScript
-* Supabase PostgreSQL
-* Row Level Security
-* Transactional RPC functions
-* Duplicate check-in prevention
-* Phone normalization
-* Secure anonymous access patterns
-* Production deployment workflow
-
----
-
-### 🥤 FLOW
-
-**Interactive product storytelling experience inspired by premium product-launch websites.**
-
-**Highlights**
-
-* Next.js
-* TypeScript
-* GSAP + ScrollTrigger
-* Lenis
-* Parametric SVG product rendering
-* Scroll-driven interactions
-* Accessibility and reduced-motion support
-* Performance-focused animation architecture
-
----
-
-## AI & Automation Work
-
-### 🤖 AI Booking Agent
-
-AI-powered customer assistant capable of understanding and handling:
-
-* Booking requests
-* Cancellations
-* Customer inquiries
-* Complaints
-* Availability checks
-* Automated responses
-
-**Stack:** n8n · Claude · WhatsApp · Google Sheets · APIs · Webhooks
-
----
-
-### 📞 AI Voice Receptionist
-
-Automated appointment-management system designed to handle customer calls and booking workflows.
-
-**Capabilities**
-
-* Availability checking
-* Appointment creation
-* Appointment updates
-* Cancellations
-* Customer assistance
-* Call and interaction logging
-
-**Stack:** n8n · AI Voice · Airtable · APIs · Webhooks
-
----
-
-## What I Enjoy Building
+My work is mostly around **SaaS products, internal tools, dashboards, API integrations, authentication, payments and database-backed applications**. I use **Claude Code, Cursor and Codex** as part of my development workflow to move quickly while still paying attention to architecture, security, testing and maintainability.
 
 ```text
-Full-Stack Apps     → Products, dashboards, portals and internal tools
-Backend Systems     → APIs, authentication, databases and business logic
-Mobile Apps         → React Native and Expo applications
-AI Systems          → Agents, assistants and intelligent workflows
-Automations         → n8n, APIs, webhooks and business integrations
-Frontend Experiences → Responsive interfaces, motion and interaction
+Web       Next.js · React · TypeScript · Tailwind CSS
+Backend   Node.js · Supabase · PostgreSQL · Prisma · REST APIs
+Mobile    React Native · Expo
+AI        Claude Code · Cursor · Codex · OpenAI · n8n
+Infra     Vercel · GitHub · Docker · Webhooks
 ```
 
 ---
 
-## Connect
+## Selected Work
+
+### TrackBison
+
+**Production SaaS built for a real client in Germany — shipped in roughly 5 days.**
+
+TrackBison is the strongest example of how I like to work: taking business requirements, turning them into a working product, connecting the backend and external services, and getting the application into production quickly.
+
+**What I worked on**
+
+- Next.js + TypeScript application architecture
+- Supabase / PostgreSQL database and migrations
+- Authentication and account flows
+- Row Level Security and backend data access
+- Credits ledger and free-trial logic
+- Membership and billing architecture
+- CopeCart payment webhook integration
+- Crypto payment flows
+- Billing history and account state
+- Third-party provider API integration
+- Production deployment on Vercel
+- Automated checks, debugging and production fixes
+- Internationalization, RTL support and theme handling
+
+**Result**
+
+A working production SaaS where **payments, credits, account access and external provider data stay synchronized through backend logic and webhooks**, reducing the need for manual handling.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `CopeCart` `Webhooks` `REST APIs` `Vercel`
+
+---
+
+### Migo
+
+**Cross-platform social travel product built with React Native, Expo and Supabase.**
+
+Built around authentication, RLS, database workflows, social/travel features, push reminders and AI-assisted experiences across mobile and web.
+
+`React Native` `Expo` `TypeScript` `Supabase` `RLS` `AI`
+
+---
+
+### EstateDocPrep
+
+**Secure check-in workflow built around Supabase and production-minded backend logic.**
+
+Implemented PostgreSQL, Row Level Security, RPC functions, phone normalization, duplicate prevention and controlled anonymous-access patterns.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `RLS` `RPC`
+
+---
+
+## AI-Assisted Development
+
+I use AI as part of the engineering workflow, not as a replacement for understanding the code.
+
+**Claude Code · Cursor · OpenAI Codex · ChatGPT**
+
+I use these tools for codebase exploration, implementation, debugging, refactoring and faster iteration — then verify the actual application behavior, database rules, integrations and edge cases before shipping.
+
+I also build AI and automation workflows with **Claude/OpenAI, n8n, APIs and webhooks**, including booking assistants and appointment-management systems.
+
+---
+
+## What I Build
+
+```text
+SaaS Products       → dashboards, subscriptions, billing and account systems
+Full-Stack Apps     → frontend, backend, database and production deployment
+Internal Tools      → operational dashboards and business workflows
+API Integrations    → payments, webhooks and third-party services
+Mobile Apps         → React Native + Expo products
+AI Features         → assistants, agents and AI-assisted workflows
+```
+
+---
 
 <div align="center">
 
-<a href="https://dioneraze.com/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-dioneraze.com-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
+### Let's build something useful.
 
-<a href="mailto:dioneraze.dev@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-dioneraze.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+[**dioneraze.com**](https://dioneraze.com) · [**dioneraze.dev@gmail.com**](mailto:dioneraze.dev@gmail.com)
 
-<br/><br/>
-
-**Build. Learn. Improve. Ship.**
-
-Building useful software and intelligent systems from the Philippines 🇵🇭
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer"
-width="100%"
-alt="Footer"
-/>
+<sub>Build · iterate · ship.</sub>
 
 </div>
