@@ -22,6 +22,15 @@ My focus is **full-stack development, AI automation, and search visibility**. Be
 
 I've built client projects for businesses in **Germany, Canada, and Guam**, alongside my own mobile and AI-powered products.
 
+<p align="center">
+  <img src="./image-05.webp" alt="A moment from my travels" width="23%" />
+  <img src="./image-06.webp" alt="Exploring while working remotely" width="23%" />
+  <img src="./image-07.webp" alt="Travel and life as a remote developer" width="23%" />
+  <img src="./IMG_4879%203.png" alt="Another travel memory" width="23%" />
+</p>
+
+<p align="center"><sub>A few moments from life outside the code — exploring new places while working remotely. 🌏</sub></p>
+
 ## Featured work
 
 ### 📦 [TrackBison](https://trackbison.com/) — Shipment-tracking SaaS
