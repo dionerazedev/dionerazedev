@@ -1,115 +1,113 @@
 <div align="center">
 
-# Dione Raze Oro
+# Hey, I'm Dione 👋
 
-**Full-Stack Developer · AI-Assisted Product Builder**
+### Full-Stack Developer & AI Automation Engineer
 
-I design and ship production web applications with **Next.js, TypeScript, Supabase and AI-assisted development tools.**
+I build **SaaS products, AI agents, and business websites** — combining full-stack engineering, API integrations, automation, and SEO.
 
-[Portfolio](https://dioneraze.com) · [Email](mailto:dioneraze.dev@gmail.com) · [GitHub](https://github.com/dionerazedev)
+🇵🇭 From the Philippines · 🌏 Working remotely from Vietnam
+
+[**Portfolio**](https://dioneraze.com/) · [**Email**](mailto:dioneraze.dev@gmail.com) · [**GitHub**](https://github.com/dionerazedev?tab=repositories)
 
 </div>
 
 ---
 
-### About
+## About me
 
-I'm a full-stack developer from the Philippines focused on turning product ideas and existing prototypes into reliable, production-ready software.
+I'm an independent developer working with founders and businesses internationally. I enjoy turning rough ideas and complex workflows into software people can actually use.
 
-My work is mostly around **SaaS products, internal tools, dashboards, API integrations, authentication, payments and database-backed applications**. I use **Claude Code, Cursor and Codex** as part of my development workflow to move quickly while still paying attention to architecture, security, testing and maintainability.
+My focus is **full-stack development, AI automation, and search visibility**. Beyond building websites, I work on **technical SEO, local SEO, and AI search optimization (GEO/AEO)** to help businesses get discovered.
 
-```text
-Web       Next.js · React · TypeScript · Tailwind CSS
-Backend   Node.js · Supabase · PostgreSQL · Prisma · REST APIs
-Mobile    React Native · Expo
-AI        Claude Code · Cursor · Codex · OpenAI · n8n
-Infra     Vercel · GitHub · Docker · Webhooks
-```
+I've built client projects for businesses in **Germany, Canada, and Guam**, alongside my own mobile and AI-powered products.
 
----
+## Featured work
 
-## Selected Work
+### 📦 [TrackBison](https://trackbison.com/) — Shipment-tracking SaaS
 
-### TrackBison
+**Client project · Germany · Production MVP shipped in ~5 days**
 
-**Production SaaS built for a real client in Germany — shipped in roughly 5 days.**
+Built a full-stack SaaS with authentication, a PostgreSQL credit ledger, Row Level Security, subscription and payment workflows, third-party tracking APIs, and webhook-driven account access. Also implemented multilingual support, including RTL layouts.
 
-TrackBison is the strongest example of how I like to work: taking business requirements, turning them into a working product, connecting the backend and external services, and getting the application into production quickly.
+**Stack:** Next.js · TypeScript · Supabase · PostgreSQL · Webhooks · CopeCart
 
-**What I worked on**
+[Live product](https://trackbison.com/) · [Sanitized code portfolio](https://github.com/dionerazedev/trackbison-portfolio)
 
-- Next.js + TypeScript application architecture
-- Supabase / PostgreSQL database and migrations
-- Authentication and account flows
-- Row Level Security and backend data access
-- Credits ledger and free-trial logic
-- Membership and billing architecture
-- CopeCart payment webhook integration
-- Crypto payment flows
-- Billing history and account state
-- Third-party provider API integration
-- Production deployment on Vercel
-- Automated checks, debugging and production fixes
-- Internationalization, RTL support and theme handling
+### 🦷 [Sunset Dental Centre](https://www.sunsetdentalcentre.ca/) — Website & SEO
 
-**Result**
+**Client project · Canada**
 
-A working production SaaS where **payments, credits, account access and external provider data stay synchronized through backend logic and webhooks**, reducing the need for manual handling.
+Redesigned the practice website and improved its SEO foundations, including **service-page optimization, metadata, canonical URLs, XML sitemaps, robots directives, and search-friendly content structure**. Worked on dental treatment pages such as braces and Invisalign, with visibility tracked through Google Search Console.
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `CopeCart` `Webhooks` `REST APIs` `Vercel`
+**Focus:** Website redesign · On-page SEO · Technical SEO · Google Search Console · UX
 
----
+[Live website](https://www.sunsetdentalcentre.ca/)
 
-### Migo
+### 🚗 [Guam Cherry Rentals](https://www.guamcherryrentals.com/) — Local SEO & Website Visibility
 
-**Cross-platform social travel product built with React Native, Expo and Supabase.**
+**Client project · Guam, USA**
 
-Built around authentication, RLS, database workflows, social/travel features, push reminders and AI-assisted experiences across mobile and web.
+Worked on **search indexing, on-page SEO, and local search visibility** for a car-rental business, including website discoverability and a smoother WhatsApp inquiry path.
 
-`React Native` `Expo` `TypeScript` `Supabase` `RLS` `AI`
+**Focus:** Local SEO · Indexing · On-page SEO · Lead generation
 
----
+[Live website](https://www.guamcherryrentals.com/)
 
-### EstateDocPrep
+### 🤖 AI WhatsApp Booking Assistant — AI automation
 
-**Secure check-in workflow built around Supabase and production-minded backend logic.**
+Built an appointment-management workflow with **Claude, n8n, Twilio WhatsApp, and APIs** to handle customer questions, booking requests, cancellations, and human escalation.
 
-Implemented PostgreSQL, Row Level Security, RPC functions, phone normalization, duplicate prevention and controlled anonymous-access patterns.
+**Focus:** AI agents · Workflow automation · API integrations · Webhooks
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `RLS` `RPC`
+### ✈️ [Migo](https://github.com/dionerazedev/migo) — Social travel app
 
----
+**Personal product · In development**
 
-## AI-Assisted Development
+Building a cross-platform travel companion for planning trips, splitting expenses, saving memories, and AI-assisted travel planning, with authentication and data access backed by Supabase.
 
-I use AI as part of the engineering workflow, not as a replacement for understanding the code.
+**Stack:** React Native · Expo · TypeScript · Supabase · AI
 
-**Claude Code · Cursor · OpenAI Codex · ChatGPT**
+[View repository](https://github.com/dionerazedev/migo)
 
-I use these tools for codebase exploration, implementation, debugging, refactoring and faster iteration — then verify the actual application behavior, database rules, integrations and edge cases before shipping.
+### 🌿 [MakeBukidKnown](https://github.com/dionerazedev/LaagBukidnon) — Tourism discovery prototype
 
-I also build AI and automation workflows with **Claude/OpenAI, n8n, APIs and webhooks**, including booking assistants and appointment-management systems.
+**Personal project · Prototype**
 
----
+Built a mobile-first Bukidnon tourism discovery experience with travel planning, AI-assisted destination guidance, and content verification concepts.
 
-## What I Build
+**Stack:** Next.js · TypeScript · Supabase · PWA
 
-```text
-SaaS Products       → dashboards, subscriptions, billing and account systems
-Full-Stack Apps     → frontend, backend, database and production deployment
-Internal Tools      → operational dashboards and business workflows
-API Integrations    → payments, webhooks and third-party services
-Mobile Apps         → React Native + Expo products
-AI Features         → assistants, agents and AI-assisted workflows
-```
+[View repository](https://github.com/dionerazedev/LaagBukidnon)
+
+## Tech I work with
+
+| Area | Tools & technologies |
+| --- | --- |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend & data** | Node.js, Supabase, PostgreSQL, Auth, RLS, REST APIs |
+| **AI & automation** | Claude / OpenAI APIs, n8n, Twilio, Make, Zapier |
+| **Mobile** | React Native, Expo |
+| **SEO & search** | Technical SEO, on-page SEO, local SEO, Google Search Console, indexing, GEO/AEO |
+| **Integrations** | Stripe, CopeCart, payment webhooks, third-party APIs |
+| **Deployment** | Vercel, Cloudflare, Docker, GitHub |
+| **AI dev workflow** | Claude Code, Cursor, OpenAI Codex |
+
+## How I work
+
+I use AI coding tools to move faster, but I still own the engineering decisions: **architecture, database rules, security, integration testing, debugging, and shipping**. I care about whether an application works reliably in production, not just whether a demo looks good.
+
+I also approach client websites as business tools: **fast, accessible, easy to find in search, and designed to turn visitors into inquiries**.
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+### Building something? Let's talk.
 
-[**dioneraze.com**](https://dioneraze.com) · [**dioneraze.dev@gmail.com**](mailto:dioneraze.dev@gmail.com)
+Open to **freelance projects, collaborations, and remote full-stack / AI automation roles**.
+
+[**dioneraze.com**](https://dioneraze.com/) · [**dioneraze.dev@gmail.com**](mailto:dioneraze.dev@gmail.com)
 
 <sub>Build · iterate · ship.</sub>
 
