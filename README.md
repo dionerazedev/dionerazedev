@@ -20,7 +20,7 @@ I'm an independent developer working with founders and businesses internationall
 
 My focus is **full-stack development, AI automation, and search visibility**. Beyond building websites, I work on **technical SEO, local SEO, and AI search optimization (GEO/AEO)** to help businesses get discovered.
 
-I've built client projects for businesses in **Germany, Canada, and Guam**, alongside my own mobile and AI-powered products.
+I've built client projects for businesses in **Germany, Canada, USA**, alongside my own mobile and AI-powered products.
 
 <p align="center">
   <img src="./image-05.webp" alt="A moment from my travels" width="23%" />
